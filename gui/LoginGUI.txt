@@ -1,0 +1,14 @@
+Login GUI Description:
+
+- JFrame titled "Student Login"
+- JLabel: "Reg No"
+- JTextField for Reg No input
+- JLabel: "Password"
+- JPasswordField for password input
+- JButton labeled "Login"
+
+ActionListener:
+- Listens for button click
+- Retrieves user input
+- Calls JDBC validation method
+- Displays success or error message
